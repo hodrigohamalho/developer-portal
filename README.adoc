@@ -1,0 +1,6 @@
+= Developer Portal 
+
+== html-version 
+
+This is just a quick way to validate the layout/idea, to run just open the index.html.
+
